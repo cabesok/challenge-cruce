@@ -9,4 +9,4 @@ Database: 'src/database/cruce_db.sql'
 
 GitHub: https://github.com/cabesok/challenge-cruce
 
-Deploy:
+Deploy: https://challenge-cruce.herokuapp.com/
